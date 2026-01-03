@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Query Optimization](https://img.shields.io/badge/-SQL_Query_Optimization-2F3E46?style=flat-square)
 
-Other related concepts: Data Warehousing, Data Mining, Git
+
 
 <!-- Animated divider -->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 1200 10" preserveAspectRatio="none" role="img" aria-label="color changing divider">
@@ -181,7 +181,6 @@ Other related concepts: Data Warehousing, Data Mining, Git
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-Other tooling experience: Cisco Packet Tracer
 
 <!-- Animated divider -->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 1200 12" preserveAspectRatio="none" role="img" aria-label="color changing divider">
@@ -202,8 +201,4 @@ Other tooling experience: Cisco Packet Tracer
   <rect x="0" y="0" width="1200" height="12" rx="6" fill="url(#g7)" />
 </svg>
 
-## GitHub Stats
 
-```markdown
-![Pasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasan11504&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan11504&layout=compact&theme=tokyonight)
