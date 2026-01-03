@@ -204,6 +204,5 @@ Other tooling experience: Cisco Packet Tracer
 
 ## GitHub Stats
 
-```markdown
-![Pasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasan11504&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan11504&layout=compact&theme=tokyonight)
+![Pasan's GitHub stats](./assets/stats.png)
+![Top Langs](./assets/top-langs.png)
